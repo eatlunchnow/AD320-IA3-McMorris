@@ -1,0 +1,31 @@
+body {
+	background-color: #a67c00;
+    position: absolute;
+	width: 400px;
+	font-family: monospace;
+	margin: 30 auto;
+	right: 450px;
+	color: #065535;
+	
+	
+}
+
+#add, #over, #randomNum, #clickText, #move{
+	padding: 60px;
+	background-color: #bf9b30;
+	width: 200px;
+	display: block;
+	border-radius: 12px;
+	border: 3px solid;
+	border-color: #ffdc73;
+	font-size: 15px;
+	
+	
+}
+
+h2 {
+	text-align: justify;
+	text-decoration: underline;
+	text-indent: 23px;
+}
+
