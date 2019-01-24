@@ -9,3 +9,5 @@ I have three click eventListeners and two mouse eventListeners.
 3. Mousemove - move mouse around entire box and a number keeps increasing by 1.
 4. Click makes the pictures disappear.
 5. Right click and "You did a right click!" appears. 
+
+http://themcmorrislife.com/assignment3/
