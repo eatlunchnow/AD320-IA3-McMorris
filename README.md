@@ -2,7 +2,7 @@
 
 Individual Assignment #2 - Javascript DOM & Events Freestyle
 
-I have three click eventListeners and two mouse evenListeners.
+I have three click eventListeners and two mouse eventListeners.
 
 1. Click changes the font color.
 2. Mouseover - move mouse around the text and "Hello there!" appears. Keep moving the mouse around the text and the "Hello there!" multiplies. 
